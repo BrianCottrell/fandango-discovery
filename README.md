@@ -4,4 +4,4 @@ Fandango Discovery was an entry for the 2014 NBCUniversal Hackathon. This front-
 ###Description
 The project's goal is to encourage online interaction with upcoming movies by providing a set of movie related challenges such as watching trailers, posting content, or visiting locations and rewarding users based on the number of challenges completed.
 ###Technologies
-Built with HTML/CSS/Javascript and hosted on Github Pages.
+Built with HTML/CSS/Javascript and the CinemaCraft API and hosted on Github Pages.
